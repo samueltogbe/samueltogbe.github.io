@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TOGBE Samuel Lycidos - Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <nav>
+      <div class="logo">Samuel<span>Lycidos</span></div>
+      <ul class="nav-links">
+        <li><a href="index.html">Accueil</a></li>
+        <li><a href="apropos.html">À propos</a></li>
+        <li><a href="projets.html">Projets</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-content">
+        <p class="badge">Élève en 1ère D · Futur étudiant au Québec</p>
+        <h1>Salut, je suis <span>TOGBE Samuel Lycidos</span></h1>
+        <p class="subtitle">Développeur web en devenir, passionné par l'intelligence artificielle et les technologies qui changent le quotidien.</p>
+        <div class="cta-group">
+          <a href="projets.html" class="btn btn-primary">Découvrir mes projets</a>
+          <a href="contact.html" class="btn btn-secondary">Me contacter</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="skills">
+      <h2>Ce que je fais</h2>
+      <div class="skills-grid">
+        <div class="skill-card">
+          <h3>Développement Web</h3>
+          <p>HTML, CSS et bientôt JavaScript pour créer des sites modernes et responsives.</p>
+        </div>
+        <div class="skill-card">
+          <h3>Intelligence Artificielle</h3>
+          <p>Apprentissage de Python et des bases du Machine Learning pour créer des projets intelligents.</p>
+        </div>
+        <div class="skill-card">
+          <h3>Ambition</h3>
+          <p>Poursuivre mes études en informatique au Québec après le Bac D.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 TOGBE Samuel Lycidos. Tous droits réservés.</p>
+  </footer>
+
+</body>
+</html>
